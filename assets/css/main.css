@@ -2370,7 +2370,7 @@ input, select, textarea {
 		border: solid 1px;
 	}
 
-		.spotlight .image img {
+		.image img {
 			display: block;
 			border-radius: 100%;
 			width: 16em;
@@ -2415,6 +2415,21 @@ input, select, textarea {
 			.image.main img {
 				width: 100%;
 			}
+		@media screen and (max-width: 736px) {
+
+			.image {
+				padding: 0.35em;
+			}
+
+				.image img {
+					width: 12em;
+				}
+
+		}
+
+	.image {
+		border-color: rgba(255, 255, 255, 0.35);
+	}
 
 /* List */
 
