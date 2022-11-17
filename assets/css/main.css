@@ -2373,7 +2373,7 @@ input, select, textarea {
 		.image img {
 			display: block;
 			border-radius: 100%;
-			width: 16em;
+			width: 12em;
 		}
 
 		.image.left, .image.right {
