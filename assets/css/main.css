@@ -2431,6 +2431,20 @@ input, select, textarea {
 		border-color: rgba(255, 255, 255, 0.35);
 	}
 
+/* Video*/
+	.video {
+		display: inline-block;
+		margin-left: 4em;
+		padding: 0.65em;
+		border-radius: 100%;
+		border: solid 1px;
+	}
+
+		.video video {
+			width: 100;
+		}
+
+
 /* List */
 
 	ol {
