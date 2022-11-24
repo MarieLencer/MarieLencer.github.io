@@ -2447,6 +2447,8 @@ input, select, textarea {
 
 				.image img {
 					width: 12em;
+			}
+		}
 
 	.image {
 		border-color: rgba(255, 255, 255, 0.35);
