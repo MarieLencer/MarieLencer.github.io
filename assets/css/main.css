@@ -2426,6 +2426,27 @@ input, select, textarea {
 				}
 
 		}
+		@media screen and (max-width: 980px) {
+
+				.image {
+					-moz-flex: 0 1 auto;
+					-webkit-flex: 0 1 auto;
+					-ms-flex: 0 1 auto;
+					flex: 0 1 auto;
+					margin-left: 0;
+					margin-bottom: 2em;
+				}
+
+		}
+
+		@media screen and (max-width: 736px) {
+
+			.image {
+				padding: 0.35em;
+			}
+
+				.image img {
+					width: 12em;
 
 	.image {
 		border-color: rgba(255, 255, 255, 0.35);
