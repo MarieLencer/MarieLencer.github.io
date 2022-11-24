@@ -2373,7 +2373,7 @@ input, select, textarea {
 		.image img {
 			display: block;
 			border-radius: 100%;
-			width: 12em;
+			width: 10em;
 		}
 
 		.image.left, .image.right {
@@ -2422,7 +2422,7 @@ input, select, textarea {
 			}
 
 				.image img {
-					width: 12em;
+					width: 10em;
 				}
 
 		}
@@ -2446,7 +2446,7 @@ input, select, textarea {
 			}
 
 				.image img {
-					width: 12em;
+					width: 10em;
 			}
 		}
 
