@@ -2461,7 +2461,7 @@ input, select, textarea {
 	}
 
 		.video video {
-			width: "100";
+			width: 50%;
 		}
 
 
