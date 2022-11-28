@@ -2459,12 +2459,11 @@ input, select, textarea {
 		display: inline-block;
 		margin-left: 4em;
 		padding: 0.65em;
-		border-radius: 100%;
 		border: solid 1px;
 	}
 
 		.video video {
-			width: 100;
+			width: 50;
 		}
 
 
