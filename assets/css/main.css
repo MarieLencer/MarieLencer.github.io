@@ -2460,7 +2460,7 @@ input, select, textarea {
 
 		.mainImage img {
 			display: block;
-			width: 100%;
+			width: 50%;
 		}
 	}
 
@@ -2471,7 +2471,7 @@ input, select, textarea {
 	}
 
 		.video video {
-			width: 75%;
+			width: 100%;
 		}
 
 
