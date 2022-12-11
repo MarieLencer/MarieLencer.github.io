@@ -2453,6 +2453,17 @@ input, select, textarea {
 		border-color: rgba(255, 255, 255, 0.35);
 	}
 
+	.mainImage {
+		display: inline-block;
+		padding: 0.65em;
+	}
+
+		.mainImage img {
+			display: block;
+			width: 10em;
+		}
+	}
+
 /* Video*/
 	.video {
 		display: inline-block;
